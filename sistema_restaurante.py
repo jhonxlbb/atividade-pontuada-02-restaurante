@@ -1,16 +1,17 @@
 """
-Informe o número da turma: 
-Turma - 
+Informe o número da turma: G 93313
+Turma - desenvolvimento de sistema
 
 Nome completo dos componentes.
-1 - 
-2 - 
+1 - Joao Filipe Sampaio De Oliveira
+2 - Leonardo Araujo De Miranda Dos Santos
 """
 
 
-import os
 
 # Limpa o terminal.
+import os
 os.system("cls || clear") 
+
 
 
